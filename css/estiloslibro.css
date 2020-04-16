@@ -1,0 +1,92 @@
+#portada{
+	background-image: url(C:/xampp/htdocs/TIN/turismo/images/libroportada1.jpg);
+	background-size: cover;
+	text-align: center;
+	padding: 30px;
+	height: 570px;
+}
+
+h1, h2, h4{
+	color: white;
+}
+
+h3{
+	font-family: monospace;
+}
+
+.titulo{
+	font-family: monospace;
+	padding-top: 80px;
+}
+
+.b-wrap .b-counter{
+	background-color: blue;
+	/*margin-left: 40%;
+	margin-right: 40%;*/
+	color: #fff;
+}
+
+#wrapper{
+	padding-top: 40px;
+}
+
+#gotopage{
+	text-align: center;
+}
+
+#in_go{
+	width: 40px;
+	margin-right: 10px;
+}
+
+#bt_go{
+	width: 200px;
+	height: 30px;
+	box-shadow: 0 0 20px #4f9;
+	text-shadow:0 0 30px #fff;
+}
+
+.textofoto{
+	padding-top: 60px;
+	font-family: monospace;
+	}
+.imagenesLargos, .imagenesLargos1{
+	height: 300px;
+	width: 350px;
+	align-content: center;
+	box-shadow: 0 0 20px #EAF31E;
+}
+
+.hojas{
+	text-align: center;
+	padding: 20px;
+}
+
+.lista{ text-align: left;
+	list-style-type: disc;
+	padding-left: 70px;
+}
+
+.parrafos{
+	text-align: justify;
+	padding: 25px;
+}
+
+.ajustar, .textofoto2{
+	padding-top: 50px;
+	font-family: monospace;
+}
+
+.ajustar2{
+	padding-top: 30px;
+}
+
+.ajustar3{
+	padding-top: 70px;
+}
+
+.ajustar4{
+	padding-top: 80px;
+}
+
+
